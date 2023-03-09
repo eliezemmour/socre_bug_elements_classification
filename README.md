@@ -1,5 +1,5 @@
-# socre_bug_elements_classification
-SABABA (Score-bug Annotations in BAsketBAll) dataset, comprises of numerous score bugs from multiple basketball leagues. 
+# SABABA (Score-bug Annotations in BAsketBAll)
+the SABABA dataset comprises of numerous score bugs from multiple basketball leagues. 
 While some score bugs share comparable geometric dimensions, they differ in attributes such as background colors, font sizes, and text values. 
 SABABA dataset consist of 1168 score bug images. We split the dataset into three subsets: train, validation and test. 
 In train set we have 584 samples, in validation set we have 140 samples and in test set, 444 samples.
